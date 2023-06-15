@@ -5,6 +5,10 @@ public class PracticeGitConflict {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("PJH");
+		System.out.println("PJH 두 번째");
+		System.out.println("YHJ");
+		System.out.println("손진원");
+		System.out.println("ktg");
 		
 		System.out.println("충돌을 해 보자.");
 	}
