@@ -8,6 +8,7 @@ public class PracticeGitConflict {
 		System.out.println("YHJ");
 		System.out.println("PJH");
 		System.out.println("손진원");
+		System.out.println("ktg");
 	}
 
 }
