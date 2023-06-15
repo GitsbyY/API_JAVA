@@ -4,7 +4,7 @@ public class SecondPJH {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("박지훈ㅋㅋㅋ");
+		System.out.println("박지훈ㅋㅋㅋㅋ");
 
 	}
 
